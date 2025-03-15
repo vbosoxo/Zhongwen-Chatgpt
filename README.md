@@ -1,6 +1,6 @@
-# 【2025/03/14更新】ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4、4o和o1\o3\deepseek\grok3）
+# 【2025/03/16更新】ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4、4o和o1\o3\deepseek\grok3）
 
-> 更新时间：2025/03/14
+> 更新时间：2025/03/16
 
 > 作者：Vbosoxo
 
@@ -21,7 +21,7 @@ ChatGPT 镜像网站是专为国内用户开发的中文版平台，提供了一
 
 ## 推荐的 ChatGPT 镜像网站
 
-- **松鼠AI** ([https://songshugpt.com](https://songshugpt.com)) 上线快两年，支持 GPT-4、4o、4o mini 及 o1，提供 AI 绘画功能，用户可通过简单扫码快速使用。
+- **松鼠AI** ([https://songshugpt.com](https://songshugpt.com)) 上线快两年，支持 GPT-3.5、GPT-4、GPT-o1、GPT-o3、Deepseek、Grok3，提供 AI 绘画功能，用户可通过简单扫码快速使用。
 
 - **狗狗AI** ([https://gptdog.online/](https://gptdog.online/）) 已运营近两年，支持 GPT-4、4o 及 o1，提供 AI 文件、AI PPT、AI 助手、AI 插件功能和思维导图。
 

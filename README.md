@@ -1,6 +1,6 @@
-# 【2025/05/18更新】ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4、4o和o1\o3\deepseek\grok3）
+# 【2025/05/20更新】ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4、4o和o1\o3\deepseek\grok3）
 
-> 更新时间：2025/05/18
+> 更新时间：2025/05/20
 
 > 作者：Vbosoxo
 

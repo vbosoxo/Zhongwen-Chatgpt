@@ -21,7 +21,7 @@ ChatGPT 镜像网站是专为国内用户开发的中文版平台，提供了一
 
 ## 推荐的 ChatGPT 镜像网站
 
-- **松鼠AI** ([https://songshugpt.com](https://songshugpt.com)) 上线快两年，支持 GPT-3.5、GPT-4、GPT-o1、GPT-o3、Deepseek、Grok3，提供 AI 绘画功能，用户可通过简单扫码快速使用。
+- **松鼠AI** ([https://www.songshugpt.com](https://www.songshugpt.com)) 上线快两年，支持 GPT-3.5、GPT-4、GPT-o1、GPT-o3、Deepseek、Grok3，提供 AI 绘画功能，用户可通过简单扫码快速使用。
 
 - **狗狗AI** ([https://gptdog.online/](https://gptdog.online/）) 已运营近两年，支持 GPT-4、4o 及 o1，提供 AI 文件、AI PPT、AI 助手、AI 插件功能和思维导图。
 
@@ -33,7 +33,7 @@ ChatGPT 镜像网站是专为国内用户开发的中文版平台，提供了一
 
 ## 国内免费使用指南
 
-1. **选择镜像站**：从推荐列表中选择一个站点，如**松鼠AI** ([https://songshugpt.com](https://songshugpt.com))或 **狗狗AI** ([https://gptdog.online/](https://gptdog.online/）) 。
+1. **选择镜像站**：从推荐列表中选择一个站点，如**松鼠AI** ([https://www.songshugpt.com](https://www.songshugpt.com))或 **狗狗AI** ([https://gptdog.online/](https://gptdog.online/）) 。
 2. **注册或使用**：无需注册，按照提示用微信扫码即可。
 3. **选择 ChatGPT 版本**：根据需求选择 GPT-4、GPT-3.5 或 GPT-4o、o1 模型。
 4. **输入问题**：在聊天界面输入问题或任务，即可收到智能回答。
@@ -50,7 +50,7 @@ ChatGPT 镜像网站是专为国内用户开发的中文版平台，提供了一
   部分站点提供免费使用额度，适合日常使用；一些高级功能可能需要付费，具体请参考站点说明。
 
 - **哪些站点适合新手？**  
-  - **松鼠AI** ([https://songshugpt.com](https://songshugpt.com)：非常适合新手。
+  - **松鼠AI** ([https://www.songshugpt.com](https://www.songshugpt.com)：非常适合新手。
   - **狗狗AI** ([https://gptdog.online/](https://gptdog.online/）) ：功能多样，适合有更高需求的用户。
 
 ## 联系与更新
